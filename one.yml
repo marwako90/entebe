@@ -14,7 +14,7 @@ me: Setup
 
       state: present
 
-      generate_ssh_keys: true
+      generate_ssh_key: true
 
   - name: Ensure that NTP is available
 
