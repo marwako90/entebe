@@ -1,4 +1,5 @@
-me: Setup
+
+- name: Setup
 
   hosts: all
 
